@@ -1,0 +1,5 @@
+spring:
+  redis:
+    host: docker.for.mac.localhost
+    password: mypassword
+    port: 6379
